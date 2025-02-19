@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
