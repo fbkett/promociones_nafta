@@ -1,9 +1,10 @@
 {
   "version": 2,
+  "framework": "nextjs",
   "builds": [
     {
       "src": "package.json",
-      "use": "@vercel/node"
+      "use": "@vercel/next"
     }
   ],
   "routes": [
